@@ -1,4 +1,4 @@
-# Internship assignment for [Incubyte](https://incubyte.co)
+# Assignment for [Incubyte](https://incubyte.co)
 
 Take the technical assessment described [here](https://osherove.com/tdd-kata-1)
 
